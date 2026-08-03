@@ -1,0 +1,1 @@
+- [Compilation of Mineral Resource Data for Mississippi Valley-Type and Clastic-Dominated Sediment-Hosted Lead-Zinc Deposits](https://www.usgs.gov/publications/compilation-mineral-resource-data-mississippi-valley-type-and-clastic-dominated)
