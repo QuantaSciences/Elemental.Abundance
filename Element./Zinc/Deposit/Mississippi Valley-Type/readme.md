@@ -1,0 +1,3 @@
+- https://www.usgs.gov/publications/compilation-mineral-resource-data-mississippi-valley-type-and-clastic-dominated
+- https://www.researchgate.net/publication/228477629_Mississippi_Valley-type_lead-zinc_deposits_MVT
+- [mississippi valley type deposits](https://youtu.be/s2i3i1DbINE)
