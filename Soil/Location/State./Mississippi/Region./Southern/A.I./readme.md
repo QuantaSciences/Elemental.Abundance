@@ -5,7 +5,7 @@ https://share.google/aimode/alpJH5k7birBpWL6X
 
 # Element.
 ## Zinc
-query:
+query: Is it possible to extract the Zinc?
 
 https://share.google/aimode/EYMs99XJdaNvDq7pg
 
