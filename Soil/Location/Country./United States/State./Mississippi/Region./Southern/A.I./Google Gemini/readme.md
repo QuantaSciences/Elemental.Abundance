@@ -1,5 +1,5 @@
 # Google Gemini
-query: https://www.google.com/search?q=metal+content+of+soil+southern+Mississippi
+origin.Search: https://www.google.com/search?q=metal+content+of+soil+southern+Mississippi
 
 query: metal content of soil southern Mississippi
 https://share.google/aimode/alpJH5k7birBpWL6X
